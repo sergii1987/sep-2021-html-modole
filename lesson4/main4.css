@@ -1,0 +1,37 @@
+.target{
+    width: 1000px;
+
+
+}
+.header{
+    width: 1000px;
+    height: 200px;
+    background: blue;
+    margin-bottom: 5px;
+}
+.nav{
+    width: 1000px;
+    height: 150px;
+    background:darkblue ;
+    margin-bottom: 5px;
+}
+.main{
+    display: flex;
+    column-gap: 5px;
+}
+.a{
+    width: 75%;
+    height: 450px;
+    background: aquamarine;
+
+}
+.b{
+    flex-grow: 1;
+    background: mediumpurple;
+}
+.footer{
+    width: 1000px;
+    height: 200px;
+    background: red;
+    margin-top: 5px;
+}
