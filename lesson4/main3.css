@@ -1,0 +1,31 @@
+.target{
+    width: 1000px;
+    height: 1000px;
+
+
+}
+.heder{
+    width:1000px ;
+    height: 250px;
+    background: blue;
+    margin-bottom:15px ;
+
+
+}
+.main{
+    display:flex ;
+    column-gap: 15px;
+}
+.a{
+    width: 33%;
+    height: 250px;
+    background: darkblue;
+    flex-grow: 1;
+
+}
+.bottom{
+    width: 1000px;
+    height: 500px;
+    background: blue;
+    margin-top: 15px;
+}
