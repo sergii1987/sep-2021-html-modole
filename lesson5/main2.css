@@ -1,0 +1,54 @@
+.w1000 {
+    width: 1000px;
+}
+
+.w75 {
+    width: 75%;
+}
+
+.w250 {
+    width: 250px;
+}
+
+.h200 {
+    height: 250px;
+}
+
+.h150 {
+    height: 150px;
+}
+
+.h450 {
+    height: 450px;
+}
+
+.bg {
+    background: blue;
+}
+
+.header {
+    margin-bottom: 5px;
+}
+
+.nav {
+    margin-bottom: 5px;
+}
+
+.main {
+    display: flex;
+    column-gap: 5px;
+}
+
+.b {
+    flex-grow: 1;
+}
+
+.footer {
+    margin-top: 5px;
+}
+
+
+
+
+
+
