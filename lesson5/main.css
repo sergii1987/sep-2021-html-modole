@@ -1,0 +1,34 @@
+.w1000{
+    width: 1000px;
+}
+.w33{
+    width: 33%;
+}
+.h250{
+    height: 250px;
+}
+.h500{
+    height: 500px;
+}
+.bg{
+    background: blue;
+}
+.heder{
+    margin-bottom:15px ;
+}
+.main{
+    display:flex ;
+    column-gap: 15px;
+}
+.a{
+
+    background: darkblue;
+    flex-grow: 1;
+}
+.bottom{
+    margin-top: 15px;
+}
+
+
+
+
