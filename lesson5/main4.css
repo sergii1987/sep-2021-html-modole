@@ -1,0 +1,41 @@
+.w1000 {
+    width: 1000px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.bg {
+    background: darkgreen;
+}
+
+
+.target {
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.xxx {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5px;
+    column-gap: 5px;
+}
+
+
+.a {
+    height: 200px;
+
+}
+
+
+.b {
+    width: 700px;
+}
+
+.c {
+    width: 300px;
+
+}
+
