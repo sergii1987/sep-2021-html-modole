@@ -1,0 +1,65 @@
+.w1000 {
+    width: 1000px;
+}
+
+.w100 {
+    width: 100%;
+}
+
+.h100 {
+    height: 100%;
+}
+
+.bg {
+    background: blueviolet;
+}
+
+.flex-direction {
+    flex-direction: column;
+}
+
+.main {
+    display: flex;
+    row-gap: 10px;
+}
+
+
+.top {
+    height: 100px;
+}
+
+.center {
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    column-gap: 10px;
+}
+
+.center-left {
+    width: 35%;
+}
+
+.center-right {
+    width: 65%;
+    display: flex;
+    row-gap: 10px;
+
+}
+
+.center-right-inner {
+    height: 50%;
+}
+
+.bottom {
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
